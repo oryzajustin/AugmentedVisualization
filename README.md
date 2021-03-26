@@ -1,1 +1,1 @@
-# Project to create AR Visualization using Python and OpenCV
+# Project to create AR Visualization using Unity
